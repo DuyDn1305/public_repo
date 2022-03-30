@@ -1,0 +1,23 @@
+@font-face {
+  font-family: JetBrainsMono;
+  src: url(/home/scai_lab/scai_lab/duydn/preference/JetBrainsMono-Regular.woff2);
+}
+
+.CodeMirror {
+    font-family: 'JetBrainsMono';
+    line-height: 20px;
+    letter-spacing: normal;
+    font-weight: 400;
+}
+div.output_area pre {
+    font-family: 'JetBrainsMono';
+    line-height: 20px;
+    letter-spacing: normal;
+    font-weight: 400;
+}
+span.cm-string {
+    /*color: rgb(106, 135, 89) !important;
+    font-weight: 550;*/
+    color: rgb(255, 198, 109) !important;
+    color: rgb(204, 120, 50) !important;
+}
