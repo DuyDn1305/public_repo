@@ -1,7 +1,9 @@
 @font-face {
   font-family: JetBrainsMono;
-  src: url(https://github.com/DuyDn1305/public_repo/blob/main/fonts/JetBrainsMono-Regular.woff2?raw=true);
+  src: url(fonts/JetBrainsMono-Regular.woff2);
 }
+
+
 
 .CodeMirror {
     font-family: 'JetBrainsMono';
